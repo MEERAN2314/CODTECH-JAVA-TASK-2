@@ -1,0 +1,9 @@
+to access the java files go to Hospital/src/main/java/com/cr/hospital_management
+
+inside this all the required files will be there 
+I used java springboot for this project
+
+all the contents inside the hopital folder is required to run 
+
+to acces the swagger use "http://localhost:8049/swagger-ui.html#/patients-controller/PatientDetailsUsingPOST"
+  with the swagger UI only you can able to enter the records
